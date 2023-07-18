@@ -345,9 +345,7 @@
 .about__paragrah {
   margin-top: 0;
 }
-.about__paragrah:first-of-type(3n) {
-  margin: 32px;
-}
+
 .about__title {
   margin: 0;
   font-size: 20px;
